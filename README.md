@@ -1,6 +1,5 @@
-- 👋 Olá, eu sou o Artur (SkyArtur)
-- 👀 Interrese especial em lógica de programação e estruturas de dados
-- 🌱 Cursando Engenharia de Software - UNINTER
+# Olá, eu sou Artur (SkyArtur)
+
 
 <div align="center">
   <a href="https://github.com/SkyArtur">
