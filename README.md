@@ -1,4 +1,6 @@
-# Olá, eu sou Artur (SkyArtur)
+![Sky](https://user-images.githubusercontent.com/93395366/175748351-9f0bb792-1ec4-4e80-943f-927be98ac82d.png)
+
+## Olá, eu sou Artur (SkyArtur)
 
 
 <div align="center">
