@@ -1,4 +1,5 @@
-![Sky](https://user-images.githubusercontent.com/93395366/175748351-9f0bb792-1ec4-4e80-943f-927be98ac82d.png)
+![Sky](https://user-images.githubusercontent.com/93395366/175748842-ab1b1742-9794-4dd2-830b-3fd0674b7702.png)
+
 
 ## Olá, eu sou Artur (SkyArtur)
 
